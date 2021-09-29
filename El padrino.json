@@ -1,11 +1,11 @@
 {
-	"pelicula": "El padrino",
-	"director": "Francis Ford Coppola",
-	"guion": "Francis Ford Coppola",
-	"actores": ["Marlon Brandon", "Al Pacino"]
-	"estreno": "1972",
-	"pais": "EEUU",
-	"duracion": "175min",
-	"generos": ["drama", "gansters" ]
-	"puntuacion": "10",
+	"pelicula":"El padrino",
+	"director":"Francis Ford Coppola",
+	"guion":"Francis Ford Coppola",
+	"actores":["Marlon Brandon", "Al Pacino"]
+	"estreno":"1972",
+	"pais":"EEUU",
+	"duracion":"175min",
+	"generos":["drama", "gansters" ]
+	"puntuacion":"10",
 }
